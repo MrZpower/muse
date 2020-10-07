@@ -9,6 +9,7 @@ You can add to this bot by writing your own commands code and putting in the com
 
 **NOTICE:** If the bot crashes or song randomly gets skipped with errors similar to `Error: Too many redirects` then
 the error comes from YTDL and I am not responsible for any issues related to said library. If any issues of the like
+[![Run on Repl.it](https://repl.it/badge/github/Spimy/muse)](https://repl.it/github/Spimy/muse)
 persists, open an issue on their [GitHub page](https://github.com/amishshah/ytdl-core-discord/issues/).
 
 ## Requirements
